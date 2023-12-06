@@ -18,6 +18,7 @@
 - 🔭 I’m currently working on my blog.
 - 💬 Ask me about BTS in Video Engineering.
 - ⚡ Fun fact: I love wildlife.
+- 🌆 Favourite City: New York City
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 <br>
