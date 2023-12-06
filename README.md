@@ -13,9 +13,11 @@
   <img src="https://raw.githubusercontent.com/namratasiv/github-stats-transparent/output/generated/overview.svg" alt="namratasiv" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **[84.51°]**
-- :seedling: &nbsp;I’m currently working on my **[homelab]**
+- :office: &nbsp;I'm currently working at **[Comcast]**
 - :speech_balloon: &nbsp;I like to review **resumes**
+- 🔭 I’m currently working on my blog.
+- 💬 Ask me about BTS in Video Engineering.
+- ⚡ Fun fact: I love wildlife.
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 <br>
@@ -60,11 +62,11 @@
   </tr>
 </table>
 
-<h2 align="left">Coding Activity</h2>
+<!--<h2 align="left">Coding Activity</h2>-->
 
 
 [84.51°]: https://corporate.comcast.com/ "Comcast° Github Home"
-[linkedin]: https://www.linkedin.com/in/namratasivakumar "Namrata Sivakumar LinkedIn"
+[linkedin]: https://www.linkedin.com/in/namrata-sivakumar1/ "Namrata Sivakumar LinkedIn"
 <!--
 **namratasiv/namratasiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
