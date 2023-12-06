@@ -1,7 +1,6 @@
 
 <h1 align="left" id="nam-title">:wave: Hello there! I'm Namrata Sivakumar</h1>
 <h3 align="left">I am a passionate Software Engineer with almost 4 years of experience. I work in Video Engineering. I have a Master's Degree in Computer Science. I love learning new technologies.</h3>
-
 <p align="left">
   <a href="https://github.com/namratasiv/namratasiv">
     <img src="https://komarev.com/ghpvc/?username=namratasiv" alt="page views" />
@@ -12,12 +11,12 @@
 
 <p> 
 - :office: &nbsp;I'm currently working at **[Comcast]** </br>
-- :speech_balloon: &nbsp;I like to review **resumes**
-- 🔭 I’m currently working on my blog.
-- 💬 Ask me about BTS in Video Engineering.
-- ⚡ Fun fact: I love wildlife.
-- 🌆 Favourite City: New York City
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :speech_balloon: &nbsp;I like to review **resumes** </br>
+- 🔭 I’m currently working on my blog. </br>
+- 🎬 Ask me about BTS in Video Engineering. </br>
+- 🦁 Fun fact: I love wildlife. </br>
+- 🌆 Favourite City: New York City </br>
+- :computer: &nbsp;Connect with me on **[LinkedIn]** </br>
 </p>
 <br>
 
