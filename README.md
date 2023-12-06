@@ -9,7 +9,6 @@
   
 </p>
 
-[![Namrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=namratasiv)](https://github.com/namratasiv/github-readme-stats)
 
 
 - :office: &nbsp;I'm currently working at **[Comcast]**
