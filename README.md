@@ -9,13 +9,13 @@
 </p>
 
 
-#- :office: &nbsp;I'm currently working at **[Comcast]** 
-- :speech_balloon: &nbsp;I like to review **resumes** 
-- 🔭 I’m currently working on my blog. 
-- 🎬 Ask me about BTS in Video Engineering. 
-- 🦁 Fun fact: I love wildlife.
-- 🌆 Favourite City: New York City 
-- :computer: &nbsp;Connect with me on **[LinkedIn]** 
+### :office: &nbsp;I'm currently working at **[Comcast]** 
+### :speech_balloon: &nbsp;I like to review **resumes** 
+### 🔭 I’m currently working on my blog. 
+### 🎬 Ask me about BTS in Video Engineering. 
+### 🦁 Fun fact: I love wildlife.
+### 🌆 Favourite City: New York City 
+### :computer: &nbsp;Connect with me on **[LinkedIn]** 
 
 <br>
 
