@@ -1,6 +1,6 @@
 
 <h1 align="left" id="nam-title">:wave: Hello there! I'm Namrata Sivakumar</h1>
-<h3 align="left">I am a passionate Software Engineer with almost 4 years of experience. I have a Master's Degree in Computer Science. I love learning new technologies.</h3>
+<h3 align="left">I am a passionate Software Engineer with almost 4 years of experience. I work in Video Engineering. I have a Master's Degree in Computer Science. I love learning new technologies.</h3>
 
 <p align="left">
   <a href="https://github.com/namratasiv/namratasiv">
@@ -30,13 +30,14 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
 ![Gin](https://img.shields.io/badge/Gin-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
-![Kotlin]()
-![Spring Boot]()
-![Apache Airflow]()
-![Amazon Web Services]()
-![Vercel]()
-![Heroku]()
-![Fly.io]()
+![Kotlin](https://img.shields.io/badge/Kotlin-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-199900?style=for-the-badge&logo=Leaflet&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Amazon Web Services](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Fly.io](https://img.shields.io/badge/Fly.io-00C7A7?style=for-the-badge&logo=netlify&logoColor=white)
 ![CloudFlare]()
 ![Postman]()
 ![Git]()
