@@ -51,6 +51,10 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![WebSockets](https://img.shields.io/badge/WebSockets-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
+![Static Badge](https://img.shields.io/badge/AWS%20Lambda-orange?style=for-the-badge&logo=amazon&logoColor=white)
+![Static Badge](https://img.shields.io/badge/AWS%20EFS-%23424bf5?style=for-the-badge&logo=amazon&logoColor=white)
+![Static Badge](https://img.shields.io/badge/AWS%20S3-%2315662a?style=for-the-badge&logo=amazon&logoColor=white)
+![Static Badge](https://img.shields.io/badge/AWS%20API%20Gateway-%23106787?style=for-the-badge&logo=amazon&logoColor=white)
 
 
 <!--<h2 align="left">Coding Activity</h2>-->
