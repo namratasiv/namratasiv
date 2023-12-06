@@ -23,45 +23,11 @@
 
 <br>
 
-<h2 align="left" id="nam-tech">Favorite Tech</h2>
+<h2 align="left" id="nam-tech">Tools, languages, and other things that I have worked on.</h2>
 
-> Tools, languages, and other things that I have worked on.
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a href="#nam-tech">
-        <img src="go.png" width="48" height="48" alt="Golang" />
-      </a>
-      <br>Go
-    </td>
-    <td align="center" width="96">
-      <a href="#nam-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#nam-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
-      </a>
-      <br>Jsonnet
-    </td>
-    <td align="center" width="96">
-      <a href="#nam-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      </a>
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#nam-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    </td>
-    
-  </tr>
-</table>
+
+<img src= "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt = "python">
 
 <!--<h2 align="left">Coding Activity</h2>-->
 
