@@ -10,7 +10,7 @@
 </p>
 
 
-
+<p> 
 - :office: &nbsp;I'm currently working at **[Comcast]**
 - :speech_balloon: &nbsp;I like to review **resumes**
 - 🔭 I’m currently working on my blog.
@@ -18,7 +18,7 @@
 - ⚡ Fun fact: I love wildlife.
 - 🌆 Favourite City: New York City
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
-
+</p>
 <br>
 
 <h2 align="left" id="nam-tech">Tools, languages, and other things that I have worked on.</h2>
