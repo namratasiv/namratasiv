@@ -9,9 +9,8 @@
   
 </p>
 
-<a href="#nam-title">
-  <img src="https://raw.githubusercontent.com/namratasiv/github-stats-transparent/output/generated/overview.svg" alt="namratasiv" align="right" />
-</a>
+[![Namrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=namratasiv)](https://github.com/namratasiv/github-readme-stats)
+
 
 - :office: &nbsp;I'm currently working at **[Comcast]**
 - :speech_balloon: &nbsp;I like to review **resumes**
