@@ -9,15 +9,14 @@
 </p>
 
 
-<p> 
-- :office: &nbsp;I'm currently working at **[Comcast]** </br>
-- :speech_balloon: &nbsp;I like to review **resumes** </br>
-- 🔭 I’m currently working on my blog. </br>
-- 🎬 Ask me about BTS in Video Engineering. </br>
-- 🦁 Fun fact: I love wildlife. </br>
-- 🌆 Favourite City: New York City </br>
-- :computer: &nbsp;Connect with me on **[LinkedIn]** </br>
-</p>
+#- :office: &nbsp;I'm currently working at **[Comcast]** 
+- :speech_balloon: &nbsp;I like to review **resumes** 
+- 🔭 I’m currently working on my blog. 
+- 🎬 Ask me about BTS in Video Engineering. 
+- 🦁 Fun fact: I love wildlife.
+- 🌆 Favourite City: New York City 
+- :computer: &nbsp;Connect with me on **[LinkedIn]** 
+
 <br>
 
 <h2 align="left" id="nam-tech">Tools, languages, and other things that I have worked on.</h2>
