@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="left" id="nam-title">:wave: Hello there! I'm Namrata Sivakumar</h1>
 <h3 align="left">I am a passionate Software Engineer with almost 4 years of experience. I have a Master's Degree in Computer Science. I love learning new technologies.</h3>
 
