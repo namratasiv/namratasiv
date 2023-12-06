@@ -65,7 +65,7 @@
 <!--<h2 align="left">Coding Activity</h2>-->
 
 
-[84.51°]: https://corporate.comcast.com/ "Comcast° Github Home"
+[Comcast]: https://corporate.comcast.com/ "Comcast"
 [linkedin]: https://www.linkedin.com/in/namrata-sivakumar1/ "Namrata Sivakumar LinkedIn"
 <!--
 **namratasiv/namratasiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
