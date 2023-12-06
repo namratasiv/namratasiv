@@ -27,8 +27,8 @@
 
 
 
-<img src= "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt = "python">
-<img src= "	https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt = "golang">
+<img src= "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt = "python"/>
+<img src= "	https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt = "golang"/>
 <img src= "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt = "django">
 <img src= "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt = "flask">
 <img src= "https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" alt = "airflow">
