@@ -11,7 +11,7 @@
 
 
 <p> 
-- :office: &nbsp;I'm currently working at **[Comcast]**
+- :office: &nbsp;I'm currently working at **[Comcast]** </br>
 - :speech_balloon: &nbsp;I like to review **resumes**
 - 🔭 I’m currently working on my blog.
 - 💬 Ask me about BTS in Video Engineering.
